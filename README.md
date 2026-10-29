@@ -246,7 +246,3 @@ app/src/main/java/com/example/bluetoothchat/
 ### Contributing
 
 Issues and pull requests are welcome. Please describe the phones and Android versions you tested on.
-
-### License
-
-No license has been chosen yet. Add a `LICENSE` file to state how others may use the code.
